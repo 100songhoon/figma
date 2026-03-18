@@ -1,0 +1,5 @@
+- **Framework:** React 19
+- **Build Tool:** Vite
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS / Styled Components
+- **Design Tool:** Figma & Locofy.ai
